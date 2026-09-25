@@ -82,7 +82,6 @@ awx/awx_test.sqlite3-journal
 *.DS_Store
 
 # VSCode
-.vscode/
 
 # Editors
 *.sw[poj]
@@ -160,3 +159,7 @@ _readthedocs/
 
 # Pyenv
 .python-version
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
